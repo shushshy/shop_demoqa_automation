@@ -2,8 +2,10 @@
 
 This README file provides instructions for running a Cypress.js smoke test for the https://shop.demoqa.com website.
 
-### [Test plan](test_resources/test_plan.md)
-### [Test cases](test_resources/test_cases.xlsx)
+## Test resources
+Test cases and bugs are located in [Test cases](test_resources/test_cases.xlsx).
+
+Test plan is [here](test_resources/test_plan.md).
 
 ## Prerequisites
 

@@ -2,6 +2,7 @@
 
 ## Objective
 The objective of the test plan is to create test cases, determine what test cases are necessary for smoke tests and do a smoke test to ensure that the basic functionalities of the website are working as expected.
+Bugs are identified and written in [Test cases](test_cases.xlsx)  in Bugs sheet.
 
 ## Scope of Smoke Test
 The scope of the smoke test includes the following areas of the website:
